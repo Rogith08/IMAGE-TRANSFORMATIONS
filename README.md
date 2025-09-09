@@ -48,8 +48,8 @@ End the program
 
 ## Program:
 
-Developed By: KRISHNA KUMAR R
-Register Number: 212223230107
+Developed By: ROGITH. K
+Register Number: 212223110042
 
 i)Image Translation
 ```
