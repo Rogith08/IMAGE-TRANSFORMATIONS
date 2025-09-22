@@ -1,6 +1,6 @@
-# IMAGE-TRANSFORMATIONS
-
-
+# Experiment 4-IMAGE-TRANSFORMATIONS
+## Name: ROGITH. K
+## Reg No: 212223110042
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
